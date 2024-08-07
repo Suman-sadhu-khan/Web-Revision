@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.chat{
+    background-color: aqua;
+   margin: 7px;
+   padding: 7px;
+   display: inline-block;
+   border: 2px solid black;
+   border-radius: 1rem;
+
+}
